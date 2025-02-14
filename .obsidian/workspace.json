@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d6d8ef77afc03f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a46a477e7d5264b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82586c4f5f2680a9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lunar Project/Lunar Shell/Map.canvas",
+                "viewState": {
+                  "x": 310.3191873871264,
+                  "y": 893.9838737195306,
+                  "zoom": -0.31523375765219674
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f4f87b25ee47ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "12336cd02c7bffb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e40420374c3af36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc23286e8ffe1db6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93ee923f0ed91130",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5110321044922
+  },
+  "right": {
+    "id": "cb80ec4e8b134381",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66841a86a4530cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9088c86a7dca20bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lunar Project/Lunar Shell/Map.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Map"
+            }
+          },
+          {
+            "id": "9ef986d78a744d41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lunar Project/Lunar Shell/Map.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Map"
+            }
+          },
+          {
+            "id": "4b88a6d1dc583216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9db8b6fa6d0f9cd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lunar Project/Lunar Shell/Map.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "82586c4f5f2680a9",
+  "lastOpenFiles": [
+    "README.md",
+    "Lunar Project/README.md",
+    "2025-02-15.md",
+    "Lunar Project/Lunar Shell/Map.canvas",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/scripts/Pywal.md",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/scripts/System scripts.md",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/utils",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/theme",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/styles",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/settings",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/components",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src/services",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/src",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/scripts",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/Untitled.md",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map",
+    "Untitled.canvas",
+    "Lunar Project/Lunar Shell/Ags",
+    "Lunar Project/Lunar Shell/Ags/Improvements.md",
+    "Lunar Project/Lunar Shell/Ags/Migarate Map/Migaration.md",
+    "Lunar Project/Lunar Shell/Ags/Ags v1.md",
+    "Lunar Project/Lunar Shell/Structure.md"
+  ]
+}
