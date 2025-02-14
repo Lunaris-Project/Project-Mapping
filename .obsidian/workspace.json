@@ -168,11 +168,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "7e40420374c3af36",
+  "active": "82586c4f5f2680a9",
   "lastOpenFiles": [
+    "Lunar Project/Lunar Shell/Map.canvas",
     "Lunar Project./Lunar Shell/Ags/Migarate Map/src/utils",
     "Lunar Project./Lunar Shell/Ags/Migarate Map/src/theme",
     "Lunar Project./Lunar Shell/Ags/Migarate Map/src/styles",
@@ -189,12 +191,10 @@
     "Lunar Project./Lunar Shell/Ags/Ags v1.md",
     "Lunar Project./Lunar Shell/Map.canvas",
     "Lunar Project./Lunar Shell/Ags",
-    "Lunar Project./Thalis",
     "Lunar Project./README.md",
     "README.md",
     "Lunar Project/README.md",
     "2025-02-15.md",
-    "Lunar Project/Lunar Shell/Map.canvas",
     "Lunar Project/Lunar Shell/Ags/Migarate Map/scripts/Pywal.md",
     "Lunar Project/Lunar Shell/Ags/Migarate Map/scripts/System scripts.md",
     "Lunar Project/Lunar Shell/Ags/Migarate Map/Untitled.md",

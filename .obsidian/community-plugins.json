@@ -1,4 +1,5 @@
 [
   "github-copilot",
-  "github-sync"
+  "github-sync",
+  "copy-publish-url"
 ]
